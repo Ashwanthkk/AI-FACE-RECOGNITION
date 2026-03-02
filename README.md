@@ -1,6 +1,6 @@
-# 🤖 AI Face Detection
+# 🤖 AI Face Recognition
 
-AI Face Detection is a deep learning project that uses a **Convolutional Neural Network (CNN)** to detect and recognize human faces from images and video streams. The system supports training on a custom dataset and performing face recognition on both static images and real-time video.
+AI Face Recognition is a deep learning project that uses a **Convolutional Neural Network (CNN)** to detect and recognize human faces from images and video streams. The system supports training on a custom dataset and performing face recognition on both static images and real-time video.
 
 ---
 
